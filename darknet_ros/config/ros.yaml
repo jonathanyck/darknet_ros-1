@@ -1,8 +1,8 @@
 subscribers:
 
   camera_reading:
-    # topic: /camera/rgb/image_raw
-    topic: /camera/color/image_raw #d435
+    topic: /camera/rgb/image_raw
+    # topic: /camera/color/image_raw #d435
     # topic: /usb_cam/image_raw #usb cam
     queue_size: 1
 
